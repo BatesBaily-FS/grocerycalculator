@@ -1,16 +1,20 @@
-
 /* changing background color */
 body {
-    background-color: black;
+  background-color: black;
+  text-align: center;
+  padding-top: 5px;
 }
 /* styling h1 tag */
-h1{
-    color:blue;
-    text-align: center;
+h1 {
+  color: blue;
+  text-align: center;
+  font-size: 50px;
 }
 
 /* styling paragraph tag */
 p {
-    color: blue;
-    text-align: center;
+  color: blue;
+  text-align: center;
+  font-size: 30px;
+  padding-bottom: 15px;
 }
