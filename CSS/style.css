@@ -1,0 +1,16 @@
+
+/* changing background color */
+body {
+    background-color: black;
+}
+/* styling h1 tag */
+h1{
+    color:blue;
+    text-align: center;
+}
+
+/* styling paragraph tag */
+p {
+    color: blue;
+    text-align: center;
+}
